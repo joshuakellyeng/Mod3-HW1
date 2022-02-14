@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 public class HW2 {
-    
+
     public static void main(String[] args) {
         //arrayList
         ArrayList<String> cars = new ArrayList<>();
